@@ -1,2 +1,2 @@
 # java-practice
-Learning Java From Scrap
+Learning Java From Scratch
